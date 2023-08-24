@@ -1,3 +1,4 @@
+require 'octokit' 
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/WiltonLio/WiltonLio/blob/main/Cabe%C3%A7alho.png" />
 &nbsp;&nbsp;&nbsp;
@@ -6,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=wiltonlio&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-wiltonlio.vercel.app/api/top-langs/?username=wiltonlio&show_icons=true&theme=radical&layout=compact" />
+# <img width=40% align="center" src="https://github-readme-stats-git-main-wiltonlio.vercel.app/api/top-langs/?username=wiltonlio&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
