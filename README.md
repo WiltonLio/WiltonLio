@@ -20,16 +20,17 @@
 ## My Skills
 
 #### Main Stack:
-![C#](https://skillicons.dev/icons?i=cs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Angular](https://skillicons.dev/icons?i=angular)
-![CSS](https://skillicons.dev/icons?i=css)
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/fundamentals/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript"></a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript"></a>
+<a href="https://angular.dev/overview" target="_blank"><img src="https://skillicons.dev/icons?i=angular"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Secondary Stack:
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a>
 ![Python](https://skillicons.dev/icons?i=python)
 
 #### Studying in this moment:
@@ -41,7 +42,16 @@
 ![Next.JS](https://skillicons.dev/icons?i=nextjs)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
+<!--
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+<a href="" target="_blank"><img src=""></a>
+-->
 #### Databases:
 ![MySql](https://skillicons.dev/icons?i=mysql)
 ![SqLite](https://skillicons.dev/icons?i=sqlite)
