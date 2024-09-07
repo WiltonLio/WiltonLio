@@ -3,7 +3,15 @@
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=wiltonlio&theme=radical&mode=weekly" />
+ 
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=wiltonlio&theme=radical&mode=weekly" />
+<img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=wiltonlio&show_icons=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=github" />
+<img width=50% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonlio&show_icons=true&theme=radical&layout=compact" />
+
+<!--
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=wiltonlio&show_icons=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=github)
+ ![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=wiltonlio&theme=radical)
+-->
 </div>
  
  &nbsp;
